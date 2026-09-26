@@ -1,2 +1,2 @@
-# PowerBI_Super_Market_Desktop
+# PowerBI Desktop
 "Use Power BI to analyze supermarket sales and customer behavior."
